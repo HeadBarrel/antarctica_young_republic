@@ -563,7 +563,7 @@ audio: shuffle music/1928_1930/FruhlingsliedMendelssohn.mp3 music/1928_1930/AUF_
 new-page: true
 go-to: main if difficulty >= 0; main.main_easy if difficulty < 0
 
-= 1928
+= 2011
 
 It is a bright day for Antarctica! After the failure of the Antarctic Treaty System negotiation, followed by a long period of exploitation by various countries, the Antarctic people have endured enough and initiated a general strike, halting the entire continent to a standstill. The UN, fearing a violent uprising, agreed to negotiate with the pro-independence groups and an agreement was reached. Antarctica was now a free Republic!
 
